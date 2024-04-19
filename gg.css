@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Noto+Sans+Arabic:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+}
+
+body {
+    background-color: #1f3146;
+}
+
+.head {
+    height: 5rem;
+    width: 100%;
+    background-color: #0d1117;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.all {
+    background-color: #1f3146;
+    width: 100%;
+    height: 100%;
+}
+
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+    width: 90%;
+    border-radius: 10px;
+    border: solid #fff 2px;
+    background-color: #0b1d2b;
+    margin-top: 2rem;
+    font-size: 0.5em;
+}
+
+nav h1 {
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+nav h1 span {
+    margin-bottom: 20px;
+    color: rgb(255, 198, 91);
+}
+
+nav h1 div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+.photos {
+    width: 100%;
+    height: 50vh;
+    margin-top: 2rem;
+    overflow: hidden;
+}
+
+.photos img {
+    width: 100%;
+}
+
+.snd ,.thrd ,.frth ,.fifth ,.six {
+    height: 8rem;
+    width: 100%;
+    border-top: 2px solid #fff;
+    margin-top: 3rem;
+    background-color:#161b22f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
+}
+
+.seven {
+    height: 15rem;
+    width: 100%;
+    border-top: 2px solid #fff;
+    margin-top: 3rem;
+    background-color: #161b22f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
+}
+
+.seven h1 {
+    margin-right: 0.5rem 0  0.5rem 0;
+}
+
+.eight {
+    height: 12rem;
+    width: 100%;
+    border-top: 2px solid #fff;
+    margin-top: 3rem;
+    background-color: #161b22f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
+}
+
+.eight h1 div {
+    margin-top: 1rem;
+   color: rgb(255, 58, 58);
+}
+
+.last {
+    background-color: #323232;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 4rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+}
+
+h2 {
+    margin: 0;
+}
+
+.last h2 div {
+    color: rgb(158, 103, 235);
+}
+
+.ai {
+    color: rgb(214, 214, 76);
+}
